@@ -1,5 +1,3 @@
 # README
 
-## ⚡⚡⚡
-
-### Powered by AG + AJ
+Config (Special Repository)
