@@ -1,2 +1,5 @@
-# .github
-Config (Special Repository)
+# README
+
+## ⚡⚡⚡
+
+### Powered by AG + AJ
