@@ -1,3 +1,1 @@
 # ⚡⚡⚡
-
-## Powered by AG + AJ
